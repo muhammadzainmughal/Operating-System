@@ -16,7 +16,7 @@ Welcome to my **Operating Systems Lab Task 03** repository. This lab focuses on 
 - **Instructor:** Engr. Seemab Khurshid
 - **Lab Number:** 03
 - **Lab Title:** DOS/Windows CMD Commands
-- **Lab Assigned Date:** 20 October 2026
+- **Date:** 26 October 2026
 
 ## 🎯 Objectives
 
